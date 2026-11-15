@@ -1,5 +1,6 @@
 package com.proj.springmvc;
 
+import com.google.gson.Gson;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -16,4 +17,5 @@ public class MainController {
     public static void main(String[] args) {
         SpringApplication.run(MainController.class, args);
     }
+
 }
