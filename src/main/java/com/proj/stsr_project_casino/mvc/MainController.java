@@ -1,6 +1,5 @@
-package com.proj.springmvc;
+package com.proj.stsr_project_casino.mvc;
 
-import com.google.gson.Gson;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
